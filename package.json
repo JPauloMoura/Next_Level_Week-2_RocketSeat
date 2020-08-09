@@ -1,0 +1,24 @@
+{
+  "name": "Next_Level_Week-2_RocketSeat",
+  "version": "1.0.0",
+  "description": "Segunda edição da maratona NLW promovida pela RocketSeat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPauloMoura/Next_Level_Week-2_RocketSeat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPauloMoura/Next_Level_Week-2_RocketSeat/issues"
+  },
+  "homepage": "https://github.com/JPauloMoura/Next_Level_Week-2_RocketSeat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
