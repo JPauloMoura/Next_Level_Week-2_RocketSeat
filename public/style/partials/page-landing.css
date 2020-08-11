@@ -1,8 +1,12 @@
 
 
-@media (max-windth: 699px){
+@media (max-windth: 1100px){
     :root {
         font-size: 40%;
+    }
+
+    .hero-image {
+        height: 45rem;
     }
 }
 
