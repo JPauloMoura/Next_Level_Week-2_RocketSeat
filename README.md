@@ -22,7 +22,7 @@
 
 > para isso você deve ter o [NodeJs](https://nodejs.org/en/) instalado na sua máquina:
 
-### Na pasta do projeto faça o clone do repositório.
+### Faça o clone do repositório.
 ```bash
 $ git clone https://github.com/JPauloMoura/Next_Level_Week-2_RocketSeat.git
 ```
