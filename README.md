@@ -20,13 +20,13 @@
 
 ## :information_source: Instalação do projeto
 
-> para isso voce deve ter o [NodeJs](https://nodejs.org/en/) instalado na sua máquina:
+> para isso você deve ter o [NodeJs](https://nodejs.org/en/) instalado na sua máquina:
 
 ### Na pasta do projeto faça o clone do repositório.
 ```bash
 $ git clone https://github.com/JPauloMoura/Next_Level_Week-2_RocketSeat.git
 ```
-### Na pasta do projeto faço o dowload das dependências
+### Na pasta do projeto faço o download das dependências
 ```bash
 $ npm install
 ```
