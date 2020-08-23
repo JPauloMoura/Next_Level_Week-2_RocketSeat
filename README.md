@@ -6,7 +6,7 @@
 
 ![proffy](https://user-images.githubusercontent.com/62079201/90084838-d27cac80-dcec-11ea-9cfb-0e970b29526f.gif)
 
-## Proffy - Conectando professores a seus alunos.
+## Proffy - Conectando professores e alunos.
 
 
 ## :rocket: Tecnologias utilizadas
@@ -36,7 +36,7 @@ $ npm install
 $ npm run dev
 ```
 ---
-### Entre em contato comigo:
+### Se quiser bater um papo, deixo aqui minhas redes sociais:
 - [LinkeIn](https://www.linkedin.com/in/jpaulomouradev/)
 - [RocketSeat](https://app.rocketseat.com.br/me/joao-paulo)
 - [FaceBook](https://www.facebook.com/joaopaulo.pereirademoura/)
